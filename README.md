@@ -71,12 +71,6 @@ REMDetector	Drowsiness via eye movement detection
 WakeGuard	Wakefulness protector
 FocusTrack	Tracking driver focus in real-time
 
-### 🔗 Download the Required Model
-
-Due to GitHub's file size limit, please download the model file manually and place it in the project root:
-
-👉 [Download shape_predictor_68_face_landmarks.dat](https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat?raw=true)
-
 
 ## 📚 References
 Facial Features Monitoring – IEEE
