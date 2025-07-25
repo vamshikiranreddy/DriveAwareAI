@@ -134,6 +134,13 @@ The system was extensively tested even in real world scenarios, this was achieve
 Future Scope
 Smart phone application: It can be implemented as a smart phone application, which can be installed on smart phones. And the automobile driver can start the application after placing it at a position where the camera is focused on the driver.
 
+### 🔗 Download Required Model File
+
+Due to GitHub file size limitations, the facial landmark model file is not included in this repository.
+
+Please download it manually and place it in the root folder of the project.
+
+👉 [Download shape_predictor_68_face_landmarks.dat (Google Drive)](https://drive.google.com/file/d/1eeseXcSQt6oEzWF-eaVtZZvnOdYLcaB-/view?usp=sharing)
 
 ## 📚 References
 Facial Features Monitoring – IEEE
