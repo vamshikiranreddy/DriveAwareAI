@@ -25,6 +25,11 @@ According to the **National Highway Traffic Safety Administration**, every year 
 1. Install **Python 3.x**
 2. Install [CMake](https://cmake.org/download/) (required for dlib)
 
+## System Design
+
+<img width="619" height="525" alt="image" src="https://github.com/user-attachments/assets/0d430665-1bf9-4c0c-a756-1564ab6edb2c" />
+
+
 
 ## 🧠 Algorithm
 Capture video frames
