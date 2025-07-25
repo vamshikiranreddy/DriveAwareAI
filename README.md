@@ -71,7 +71,14 @@ REMDetector	Drowsiness via eye movement detection
 WakeGuard	Wakefulness protector
 FocusTrack	Tracking driver focus in real-time
 
-📚 References
+### 🔗 Download the Required Model
+
+Due to GitHub's file size limit, please download the model file manually and place it in the project root:
+
+👉 [Download shape_predictor_68_face_landmarks.dat](https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat?raw=true)
+
+
+## 📚 References
 Facial Features Monitoring – IEEE
 
 Drowsiness Detection using Eye Blink – IEEE
@@ -80,7 +87,7 @@ Real Python - Face Detection
 
 PyImageSearch - Facial Landmarks
 
-👤 Author
+## 👤 Author
 Vamshi
 📍 GitHub: vamshikiranreddy
  for safer roads by Vamshi
